@@ -12,7 +12,7 @@ const LoadingScreen = () => {
       overflow: 'hidden'
     }}>
       <img 
-        src="https://cdn.dribbble.com/userupload/22339761/file/original-4bb3252c384129a3c31eee02cd1dde24.gif"
+        src="https://i.pinimg.com/originals/d7/ae/01/d7ae0170d3d5ffcbaa7f02fdda387a3b.gif"
         alt="Loading"
         style={{
           width: '100%',
