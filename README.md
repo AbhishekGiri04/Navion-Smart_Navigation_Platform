@@ -234,20 +234,6 @@ npm run preview
 
 ---
 
-## 🎤 Voice Commands
-
-```bash
-"Hey Nova, navigate to the nearest coffee shop"
-"Find me a gas station"
-"What's the fastest route to downtown?"
-"Show me restaurants nearby"
-"Switch to dark theme"
-"Enable AR navigation"
-```
-<br>
-
----
-
 ## 🗺️ Map Themes
 
 - 🌍 **Streets** — Classic OpenStreetMap view
