@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://navionx.netlify.app" target="_blank">
+  <a href="https://navion-dev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Navion-00C7B7?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
@@ -160,9 +160,9 @@ Navion/
 | 📍 Feature                   | 📸 Screenshot                                              |
 |:----------------------------|:-----------------------------------------------------------|
 | Loading Animation           | ![Loading Screen](https://i.pinimg.com/originals/d7/ae/01/d7ae0170d3d5ffcbaa7f02fdda387a3b.gif)        |
-| Home Page                   | ![Home Page](docs/Home_Page.png)                   |
-| Navigation Controls         | ![Navigation](docs/Navigation.png)          |
-| Weather Integration         | ![Weather Integration](docs/Weather_Page.png)    |
+| Home Page                   | ![Home Page](./docs/Home_Page.png)                   |
+| Navigation Controls         | ![Navigation](./docs/Navigation.png)          |
+| Weather Integration         | ![Weather Integration](./docs/Weather_Page.png)    |
 
 <br>
 
