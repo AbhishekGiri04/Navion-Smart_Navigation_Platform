@@ -143,24 +143,23 @@ Navion/
 │   │       └── 📄 WeatherPanel.jsx
 │   ├── 📄 App.jsx                  # 🏠 Main Application
 │   └── 📄 main.jsx                 # 🚀 Entry Point
-├── 📄 _redirects                   # 🔀 Netlify Redirects
 ├── 📄 .env.example                 # 🔐 Environment Variables
 ├── 📄 .gitignore                   # 🚫 Git Ignore Rules
 ├── 📄 index.html                   # 📄 HTML Template
-├── 📄 netlify.toml                 # 🌐 Netlify Configuration
 ├── 📄 package.json                 # 📦 Dependencies
 ├── 📄 postcss.config.js            # 🎨 PostCSS Configuration
 ├── 📄 README.md                    # 📖 Documentation
 ├── 📄 tailwind.config.js           # 🎨 Tailwind Configuration
+├── 📄 vercel.json                  # 🌐 Vercel Configuration
 └── 📄 vite.config.js               # ⚡ Vite Configuration
 ```
 <br>
 
-## 📸 Preview Images
+## 📸 Project Screenshots
 
 | 📍 Feature                   | 📸 Screenshot                                              |
 |:----------------------------|:-----------------------------------------------------------|
-| Loading Screen              | ![Loading Screen](docs/Loading_Page.png)        |
+| Loading Animation           | ![Loading Screen](https://i.pinimg.com/originals/d7/ae/01/d7ae0170d3d5ffcbaa7f02fdda387a3b.gif)        |
 | Home Page                   | ![Home Page](docs/Home_Page.png)                   |
 | Navigation Controls         | ![Navigation](docs/Navigation.png)          |
 | Weather Integration         | ![Weather Integration](docs/Weather_Page.png)    |
