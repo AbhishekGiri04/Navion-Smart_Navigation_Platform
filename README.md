@@ -317,8 +317,8 @@ npm run lint
 
 ## 📞 Help & Contact  
 
-> 💬 *Got questions or need assistance with Navion?*  
-> We're here to help with technical support and collaboration!
+> 💬 *Got questions or need assistance with Navion Component?*  
+> We're here to help with integration and customization!
 
 <div align="center">
 
@@ -334,6 +334,12 @@ npm run lint
 </a>
 
 <br/>
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
